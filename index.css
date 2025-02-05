@@ -1,0 +1,88 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.contanier {
+    width: 375px;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+}
+.border-bottom {
+    border-bottom: 1px solid #C6C6C6;
+}
+.avatar-img {
+    width: 50px;
+    border-radius: 50%;
+}
+
+.logo {
+    width: 127px;
+}
+
+.padding {
+    padding: 10px 20px;
+}
+.box {
+    display: flex;
+    justify-content: space-between;
+}
+header {
+    height: 70px;
+}
+.avatar-info {
+    width: 348px;
+    height: 34px;
+    margin: 0 auto;
+    padding: 5px 0;
+    margin-top: 30px;
+    padding-bottom: 20px;
+}
+.avatar-info h1{
+    font-size: 13px;
+    font-weight: 700px;
+    
+}
+.avatar-info address{
+    font-size: 12px;
+    font-weight: 400;
+}
+.avater-box {
+    display: flex;
+    gap: 0 10px;
+}
+.post-img {
+    width: 375px;
+    
+}
+.icon-box {
+    display: flex;
+    align-items: center;
+    gap: 5px 10px;
+    padding: 10px 0 0 0;
+}
+.icon {
+    width: 23.5px;
+    color: #000000;
+    opacity: 0.9;
+}
+.icon:hover {
+    opacity: 1;
+}
+
+.p1 , p2 {
+    font-size: 13px;
+    font-weight: 700;
+    
+}
+.p2 span {
+    font-weight: bold;
+    
+}
+.divider {
+    width: 375px;
+    height: 20px;
+    background-color: #EDEDED;
+}
+
+
+
